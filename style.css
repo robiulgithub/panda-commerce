@@ -17,6 +17,15 @@
 }
 
 .sc-btn-warning {
-    background-color: #ff2c7d;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    font-size: 20px;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    bottom: none;
 
+}
+
+.price {
+    color: #FF136F;
 }
